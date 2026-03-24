@@ -1536,7 +1536,7 @@ ____
 
 ____
 
-Has 134 line(s). Calls functions:
+Has 135 line(s). Calls functions:
 
  .zinit-update-or-status-all
  |-- .zinit-self-update
