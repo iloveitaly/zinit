@@ -131,7 +131,7 @@ ____
 
 ____
 
-Has 53 line(s). Calls functions:
+Has 59 line(s). Calls functions:
 
  .zinit-download-file-stdout
  `-- zinit.zsh/+zi-log
@@ -569,7 +569,7 @@ ____
 
 ____
 
-Has 277 line(s). Calls functions:
+Has 284 line(s). Calls functions:
 
  ziextract
  `-- zinit.zsh/+zi-log
