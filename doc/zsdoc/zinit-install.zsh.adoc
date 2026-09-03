@@ -569,7 +569,7 @@ ____
 
 ____
 
-Has 284 line(s). Calls functions:
+Has 287 line(s). Calls functions:
 
  ziextract
  `-- zinit.zsh/+zi-log
